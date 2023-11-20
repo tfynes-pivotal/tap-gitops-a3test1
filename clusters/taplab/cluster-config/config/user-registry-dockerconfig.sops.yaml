@@ -1,0 +1,28 @@
+apiVersion: ENC[AES256_GCM,data:/Ek=,iv:Gkhjfjrpy0rKJlFhkLG3lNxBQZBfYYocRdfK5/sJcBc=,tag:mDsh/qDxLFp1fOJqjj9HYw==,type:str]
+kind: ENC[AES256_GCM,data:+wr+ktnm,iv:Wr1SU9b+f9KOSHvRezjCdSR7k4ha4CqJk2xH1zRec1c=,tag:BoDbMvcfs3JxmlEz0oZDuA==,type:str]
+metadata:
+    name: ENC[AES256_GCM,data:aZ60EK4mYLMhvWTw31vBIfcCaPmQWEJbZLQ=,iv:U7A8TZjc6fLHPZF3U7C5/IZnqrVJGhms5OJDxluQC5k=,tag:/p+1m+bLBJ4sQaTSIUb/xg==,type:str]
+    namespace: ENC[AES256_GCM,data:f1/EPW/XZgELkUE=,iv:YA+bJQvAP8zQ4g/Qgr++Cw6x+zZaqoSZPtpAQfL4waM=,tag:f+EJSHXgMAuxjtl13MYqRg==,type:str]
+type: ENC[AES256_GCM,data:5R5wbXgZOcKF1a74SURvCTltKemCa1WNufosgiUZ,iv:3mzoiee3jKzL5gAHjtVWfVlpKt6sEggo+m7hUxpD218=,tag:AAD33IAsT5MOKCCddJp/kA==,type:str]
+data:
+    .dockerconfigjson: ENC[AES256_GCM,data:kiM7zpo7NrL+N+E7lKTFfAhxUSPrtcnffbiNlTcrcW7eO90Ox0ulyL7+sBuMgUVottG2GOI35M3+SZFp429aUDwSBEMKbzLvKnYxh9qj2LX+O/d+X1ylPRjNijLY/cmKJhuc+WSFPZekpBiu58tIHl9qifLxeW1ysosGbrC/F12dBFpToO3LZ0tQauWDbTKV8qZMbJVRxibbGKSjPAhuWrqC/h8=,iv:YryNA3oz1JBimFitONSHYIlc6I+0jKHOgLtfROTOK14=,tag:g+HRVhZwYwIm8SWEFOXGFg==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    azure_kv: []
+    hc_vault: []
+    age:
+        - recipient: age1u74ps32m3mcvd6zjaw8w2p3wwfucz0r2rxrsxmq8ldlyv5lapgkqle505u
+          enc: |
+            -----BEGIN AGE ENCRYPTED FILE-----
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBhaG1vTE43REMwZXp6NUdJ
+            MkZ2VVdtOHhldUZEZ2ZmZFVnUDVuaWszN0VNCmVXZThjZlFUWHlxbDJCRWZDOUZT
+            RnEyWXp3RHFUdHBYbzZBbS9qcG9TdjQKLS0tIHk0T09VbkRZYXdpU1JEU1JqRHpy
+            M1FmbUtnb0xlZWxkT0pvTGdtM0xrUVUKV+wXJl0RG34ALzEyQWSA4zVvr6DAi895
+            rBrWIbNBahp4H4HY0PnI/cRH7lRhRQ6OZuqNh4nKapk5c7gdOSyK1A==
+            -----END AGE ENCRYPTED FILE-----
+    lastmodified: "2023-11-20T16:14:14Z"
+    mac: ENC[AES256_GCM,data:4oKPRLiguHZVXCQaVrydanwWjbaZGFBfOoJvvmoy3iMrpfYKrJLCobctt9vQLYQRfvTYzTsCtWSVM/aL2D6COP+946JZagv3vTX3n+bm6r+SDCbgX9CnguKO8ewPHLxaK78vvw1UFT0c6rpHfy7rTczl9xqiaeZgwqYis8TqklU=,iv:XQDWvu76jW6vdIop/tj3mxgUQHyPTmQlL83U2GINT+0=,tag:IVxTJe2ehHVfZfUO60G29A==,type:str]
+    pgp: []
+    unencrypted_suffix: _unencrypted
+    version: 3.7.3
